@@ -1,0 +1,21 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  display: flex;
+  justify-content: center;
+  place-content: center;
+  margin:0;
+  padding: 0;
+  background: #555;
+}
+
+h1{
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+}
+
+span{
+  color: #ff9853;
+}
